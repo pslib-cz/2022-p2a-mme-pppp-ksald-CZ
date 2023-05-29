@@ -1,4 +1,4 @@
-README - Držák webkamery pro kalibraci laserové řezačky s využitím softwaru LightBurn / Webcam Mount for Laser Cutter Calibration using LightBurn Software
+
 
 ## Čeština / Czech
 
