@@ -1,4 +1,27 @@
 
+## English
+
+### Description
+
+This project includes instructions and information about a webcam mount designed for calibration purposes of a laser cutter. The mount allows for secure attachment of a webcam in an optimal position for monitoring and visually inspecting the cutting process. Additionally, the LightBurn software is utilized for laser cutter calibration and control.
+
+### Features
+
+- Webcam Mount: The mount is designed to provide a stable and secure attachment for the webcam at an optimal height and position for calibration and visual inspection.
+- LightBurn Software: The LightBurn software provides users with an interface for laser cutter calibration and control. Through this software, you can adjust parameters and perform laser beam calibration to achieve precise cuts.
+- Visual Inspection: The webcam, along with the LightBurn software, enables users to visually monitor the cutting process and make real-time adjustments or calibration as needed.
+
+### Installation
+
+1. Follow the instructions for mounting the webcam holder onto the laser cutter. Ensure that the mount is securely attached and the webcam is properly positioned.
+2. Install the LightBurn software on the computer or device you use to control the laser cutter. Follow the instructions provided with the software.
+3. Connect the webcam to the computer and verify that it is correctly recognized and functional.
+4. Launch the LightBurn software and ensure that the webcam is properly set as the input device for video monitoring.
+5. Perform laser beam calibration using the functions and tools provided by the LightBurn software. Monitor the live video feed from the webcam and adjust the position and settings of the laser cutter to achieve the desired outcome.
+
+### Note
+
+Before using any device, software, or performing calibration, it is important to carefully review and adhere to the safety guidelines provided with the laser cutter and its related components.
 
 ## Čeština / Czech
 
@@ -23,4 +46,7 @@ Tento projekt obsahuje návody a informace o držáku webkamery, který je navr�
 ### Poznámka
 
 Před použitím jakéhokoli zařízení, software nebo prováděním kalibrace je důležité pečlivě prostudovat a dodržovat bezpečnostní pokyny dodané s laserovou řezačkou a souvisejícími komponenty.
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
