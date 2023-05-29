@@ -22,7 +22,5 @@ Tento projekt obsahuje návody a informace o držáku webkamery, který je navr�
 
 ### Poznámka
 
-Před použitím jakéhokoli zařízení, software nebo prováděním kalibrace je
-
- důležité pečlivě prostudovat a dodržovat bezpečnostní pokyny dodané s laserovou řezačkou a souvisejícími komponenty.
+Před použitím jakéhokoli zařízení, software nebo prováděním kalibrace je důležité pečlivě prostudovat a dodržovat bezpečnostní pokyny dodané s laserovou řezačkou a souvisejícími komponenty.
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
