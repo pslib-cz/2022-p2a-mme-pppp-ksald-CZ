@@ -14,10 +14,10 @@ This project includes instructions and information about a webcam mount designed
 - Visual Inspection: The webcam, along with the LightBurn software, enables users to visually monitor the cutting process and make real-time adjustments or calibration as needed.
 
 ### Required materials
-- Logitech C930e webcam
-- some filament for printing parts 
-- 4x Lego technic round connectors 
-- one  Whitworth 1/4 screw
+- Logitech C930e webcam -101,58 €
+- some filament for printing parts  - depends on the material
+- 4x lego 2780 bricklink -
+- 1x  Whitworth 1/4 screw  10 mm - [5.62 € aliexpress kit](https://www.aliexpress.com/item/4001072086014.html?spm=a2g0o.productlist.main.13.3a0c248cPVQPZN&algo_pvid=b1aba514-0385-41c8-a8cf-27f05abe998c&algo_exp_id=b1aba514-0385-41c8-a8cf-27f05abe998c-6&pdp_npi=3%40dis%21USD%213.46%212.77%21%21%21%21%21%402100b20d16868484222088178d076a%2112000030085371236%21sea%21CZ%210&curPageLogUid=QoeLlIh11Yhk)
 
 
 ### Installation
@@ -50,17 +50,17 @@ Tento projekt obsahuje instrukce a informace o montáži webové kamery navržen
 - Vizuální kontrola: Webová kamera spolu se softwarem LightBurn umožňuje uživatelům vizuálně monitorovat proces řezání a v případě potřeby provádět úpravy nebo kalibraci v reálném čase.
 
 ### Potřebné materiály
-- Webová kamera Logitech C930e
-- Nějaké filament pro tisk dílů
-- 4x Lego technic kulaté spojky
-- Jedna šroubovák Whitworth 1/4
+- Webová kamera Logitech C930e - [1661 kč](https://www.mironet.cz/logitech-webcam-c930e-hd-business-1920x1080-1080p30fps-stereo-mikrofon+dp209411/?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oJ1QtC3J8oqZFP-oOuDwO9LSJdEKNpU2NJo2TpI1l0w4PrSHj5RMWgaAobnEALw_wcB)
+- Nějaké filament pro tisk dílů - záleží na materialu
+- 4x Lego technic kulaté spojky - cca 1kc na kus
+- Jeden šroub Whitworth 1/4 10mm -[5.62 € aliexpress kit](https://www.aliexpress.com/item/4001072086014.html?spm=a2g0o.productlist.main.13.3a0c248cPVQPZN&algo_pvid=b1aba514-0385-41c8-a8cf-27f05abe998c&algo_exp_id=b1aba514-0385-41c8-a8cf-27f05abe998c-6&pdp_npi=3%40dis%21USD%213.46%212.77%21%21%21%21%21%402100b20d16868484222088178d076a%2112000030085371236%21sea%21CZ%210&curPageLogUid=QoeLlIh11Yhk)
 
 ### Instalace
 
 1. Vytiskněte díly.
 2. Nainstalujte software LightBurn na počítač. Postupujte podle instrukcí dodaných s softwarem. (Pravděpodobně jste to již udělali.)
 3. Umístěte webovou kameru do držáku webové kamery a použijte druhou část a čtyři Lego spojky k jejímu připevnění ke stříšce.
-4. Připojte webovou kameru k počítači a ověřte, že je správně rozpoznána a funkční.
+4. Připojte webkameru k počítači a ověřte, že je správně rozpoznána a funkční.
 
 5. Spusťte software LightBurn a ujistěte se, že je webová kamera správně nastavena jako zařízení pro video monitorování.
 
